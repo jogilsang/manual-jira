@@ -1,0 +1,2 @@
+# manual-jira
+for me
