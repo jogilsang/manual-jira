@@ -1,6 +1,10 @@
 # manual-jira
 
-
+### BP
+```
+jenkins JIRA :
+https://issues.jenkins.io/projects/JENKINS/issues/JENKINS-37984?filter=allopenissues
+```
 
 #### JIRA 단계
 ```
