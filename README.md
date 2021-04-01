@@ -1,5 +1,18 @@
 # manual-jira
 
+ual-jira
+
+2
+
+
+
+3
+
+### JIRA 링크### JIRA 링크
+https://developer.atlassian.com/server/jira/platform/jira-rest-api-examples/   
+https://developer.atlassian.com/cloud/jira/platform/rest/v2/api-group-workflow-schemes/   
+
+
 ### BP
 ```
 jenkins JIRA :
