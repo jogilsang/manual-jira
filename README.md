@@ -16,6 +16,10 @@ A formatted panel
 A formatted panel
 {panel}
 
+{panel:title=My title|titleBGColor=#F0F0F0|titleColor=white|bgColor=#E7F4FA}
+A formatted panel
+{panel}
+
 div class="panel" style="background-color: #e7f4fa
 panelContent" style="background-color: #E7F4FA
 ```
