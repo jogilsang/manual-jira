@@ -6,10 +6,18 @@ https://developer.atlassian.com/server/jira/platform/jira-rest-api-examples/
 https://developer.atlassian.com/cloud/jira/platform/rest/v2/api-group-workflow-schemes/   
 
 ### macro - panel
+https://confluence.atlassian.com/doc/panel-macro-51872380.html   
 ```
-{panel:title=My title|borderStyle=dashed|borderColor=blue|titleBGColor=#00a400|titleColor=white|bgColor=#72bc72}
+{panel:title=My title|borderStyle=dashed|borderColor=blue|titleBGColor=#e7f4fa|titleColor=white|bgColor=#E7F4FA}
 A formatted panel
 {panel}
+
+{panel:title=My title|titleBGColor=#3C78B5|titleColor=white|bgColor=#E7F4FA}
+A formatted panel
+{panel}
+
+div class="panel" style="background-color: #e7f4fa
+panelContent" style="background-color: #E7F4FA
 ```
 
 
