@@ -8,11 +8,18 @@ JIRA를 활용한 이슈관리
 - `2021/04/17` [JIRA - 댓글 Comment를 활용한 코드변경정보 관리, svnlook diff](https://blog.naver.com/jogilsang/222312827310)
 - `2021/02/14` [JIRA - REST API를 활용한 이슈생성 및 이슈정보얻기](https://blog.naver.com/jogilsang/222243227224)
 
-### JIRA 링크
-https://developer.atlassian.com/server/jira/platform/jira-rest-api-examples/   
-https://developer.atlassian.com/cloud/jira/platform/rest/v2/api-group-workflow-schemes/   
+---
 
-### macro - panel
+## Reference
+- [jira-rest-api-examples](https://developer.atlassian.com/server/jira/platform/jira-rest-api-examples/)   
+- [jira-rest-v2](https://developer.atlassian.com/cloud/jira/platform/rest/v2/api-group-workflow-schemes/)  
+- [BP-jira-space-jenkins](https://issues.jenkins.io/projects/JENKINS/issues/JENKINS-37984?filter=allopenissues)
+- [BP-jira-space-atlas](https://jira.atlassian.com/browse/JRACLOUD-10156)
+
+---
+
+## Macro
+### panel
 https://confluence.atlassian.com/doc/panel-macro-51872380.html   
 ```
 {panel:title=My title|borderStyle=dashed|borderColor=blue|titleBGColor=#e7f4fa|titleColor=white|bgColor=#E7F4FA}
@@ -29,28 +36,4 @@ A formatted panel
 
 div class="panel" style="background-color: #e7f4fa
 panelContent" style="background-color: #E7F4FA
-```
-
-
-### BP
-```
-jenkins JIRA :
-https://issues.jenkins.io/projects/JENKINS/issues/JENKINS-37984?filter=allopenissues
-https://jira.atlassian.com/browse/JRACLOUD-10156
-```
-
-#### JIRA 단계
-```
-JIRA
-접수/계획 (승인자 필요)
-분석/설계
-개발시작
-개발완료
-테스트
-테스트 완료
-릴리즈 요청
-릴리즈 승인 (승인자 필요)
-릴리즈 완료
-운영테스트
-완료
 ```
