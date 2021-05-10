@@ -12,9 +12,9 @@ JIRA를 활용한 이슈관리
 
 ## Reference
 - [jira-rest-api-examples](https://developer.atlassian.com/server/jira/platform/jira-rest-api-examples/)   
-- [jira-rest-v2](https://developer.atlassian.com/cloud/jira/platform/rest/v2/api-group-workflow-schemes/)  
-- [BP-jira-space-jenkins](https://issues.jenkins.io/projects/JENKINS/issues/JENKINS-37984?filter=allopenissues)
-- [BP-jira-space-atlas](https://jira.atlassian.com/browse/JRACLOUD-10156)
+- [jira-rest-v2-doc](https://developer.atlassian.com/cloud/jira/platform/rest/v2/api-group-workflow-schemes/)  
+- [BP-jira-jenkins](https://issues.jenkins.io/projects/JENKINS/issues/JENKINS-37984?filter=allopenissues)
+- [BP-jira-atlassian](https://jira.atlassian.com/browse/JRACLOUD-10156)
 
 ---
 
