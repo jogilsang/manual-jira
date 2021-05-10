@@ -2,11 +2,15 @@
 `JIRA ?` : 아틀라시안이 개발한 사유 이슈 추적 제품. 버그 추적, 이슈 추적, 프로젝트 관리 기능을 제공하는 소프트웨어
 
 ## Posting
-- `2021/4/20` [JIRA - SVN 커밋 시, 이슈번호 없을 경우 목록가져오기](https://blog.naver.com/jogilsang/222316201160)
-- `2021/04/20` [JIRA - Issue의 첨부된 이미지 썸네일 최대크기 설정하기](https://blog.naver.com/jogilsang/222316187359)
-- `2021/04/19` [JIRA - Word로 내보내기(export word) 이미지 오류 해결하는 법](https://blog.naver.com/jogilsang/222314888018)
-- `2021/04/17` [JIRA - 댓글 Comment를 활용한 코드변경정보 관리, svnlook diff](https://blog.naver.com/jogilsang/222312827310)
-- `2021/02/14` [JIRA - REST API를 활용한 이슈생성 및 이슈정보얻기](https://blog.naver.com/jogilsang/222243227224)
+- API
+    - Issue
+        - [JIRA - REST API를 활용한 이슈생성 및 이슈정보얻기](https://blog.naver.com/jogilsang/222243227224)
+        - [JIRA - SVN 커밋 시, 이슈번호 없을 경우 목록가져오기](https://blog.naver.com/jogilsang/222316201160)
+    - Comment
+        - [JIRA - 댓글 Comment를 활용한 코드변경정보 관리, svnlook diff](https://blog.naver.com/jogilsang/222312827310)
+- Solution
+    - [JIRA - Issue의 첨부된 이미지 썸네일 최대크기 설정하기](https://blog.naver.com/jogilsang/222316187359)
+    - [JIRA - Word로 내보내기(export word) 이미지 오류 해결하는 법](https://blog.naver.com/jogilsang/222314888018)
 
 ## Reference
 - [jira-rest-api-examples](https://developer.atlassian.com/server/jira/platform/jira-rest-api-examples/)   
