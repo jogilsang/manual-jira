@@ -8,8 +8,6 @@
 - `2021/04/17` [JIRA - 댓글 Comment를 활용한 코드변경정보 관리, svnlook diff](https://blog.naver.com/jogilsang/222312827310)
 - `2021/02/14` [JIRA - REST API를 활용한 이슈생성 및 이슈정보얻기](https://blog.naver.com/jogilsang/222243227224)
 
----
-
 ## Reference
 - [jira-rest-api-examples](https://developer.atlassian.com/server/jira/platform/jira-rest-api-examples/)   
 - [jira-rest-v2-doc](https://developer.atlassian.com/cloud/jira/platform/rest/v2/api-group-workflow-schemes/)  
